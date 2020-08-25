@@ -1,6 +1,11 @@
-## Your Name
+## Richard Pryce
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I had been fascinated with the idea of software development for years and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/)! For the first time in years of bieng a very in demand double bass player in London, I had time to reflect and think about what I really wanted to do.
+
+I fell in love with coding while preparing for my Makers inteview - the combination of logic and creativity, writing DRY code and producing tangiable results.
+
+As a musician, I have worked at the highest levels as a session double bass player. I have recorded 100's of film sound tracks and toured throughout Europe with some of the world's greatest musicians. I'm looking for a developer role where I can continue to work at the highst possible standard.
+
 
 ## Projects
 
@@ -11,54 +16,43 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self employed musician** (2001 to - )  
+Double bass and bass guitar player.
+[IMDB](https://www.imdb.com/name/nm8874503/)
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Discipline
 
-#### This Skill
+In order to become a professional double bass player at the highest international level, I have had to be tremendously disciplined, practising 3-4 hours a day for over ten years.
 
-- Experience
-- Achievements
-- Evidence
+#### Creative problem solving
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Part of becoming a professional bass player is learning to practice effectively: that is, to understand and solve problems in an efficient manner, with rigorous attention to detail.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September to November 2020)
+Europe's leading programming bootcamp, teaching good practices as well as coding skills
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Royal College of Music (1995 to 1999)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Double bass performance
+- BMus(hons)
+- Eugene Cruft solo double bass prize
 
-#### Any other qualifications
+#### Guildhall School of Music and Drama (1999 to 2000)
 
-That in some arguable way make you a better software developer or well-rounded person
+  - Masters in Jazz performance
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Running (not too fast but preferably in a forrest)
+- Coffee
