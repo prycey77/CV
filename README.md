@@ -42,12 +42,12 @@ I have often been hired as the principal bass player of a section of upto 8 - Ha
 ## Education
 
 #### Makers Academy (September to November 2020)
-Europe's leading programming bootcamp, teaching good practices as well as coding skills
 
-- OOP, TDD, MVC,
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Full-time software development course focusing on:	
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
 #### Guildhall School of Music and Drama (1999 to 2000)
 
