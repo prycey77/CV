@@ -1,4 +1,7 @@
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
 ## Richard Pryce
+<a href="https://www.codewars.com/users/prycey77"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 
 I have been fascinated with computers and software development since I was a teenager, and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/). For the first time in years of bieng a very in demand double bass player in London, I had time to reflect and think about what I really wanted to do.
 
@@ -65,4 +68,4 @@ Full-time software development course focusing on:
 ## Hobbies
 
 - Running
-- Cooking / Eating vegetrian food
+- Cooking / eating vegetrian food
