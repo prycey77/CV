@@ -9,10 +9,9 @@ As a musician, I have worked at the highest levels as a session double bass play
 
 ## Projects
 
-| Name                         | Description       | Live link  | Tech/tools        |
-| ---------------------------- | ----------------- |------------|------------------ |
+| Name       | Description   | Live link  | Tech/tools  |
+| -----     | ------     |-----      |---------     |
 | [BrewKanoo](https://github.com/cfujiname/brewkanoo) | A webapp to guide you through your first home brew experience. | http://brewkanoo.herokuapp.com/ | React, JavaScript, Jest, |
-
 | [FaceMaskBook](https://github.com/prycey77/FacemaskBook) | A clone of a poplular social network platform. |  | Rails, Ruby, Rspec, Capybara, Circle CI, Heroku|
 | [Solo tech test](https://github.com/prycey77/Bank-techtest) | An example solo tech test compleated in week 10 of Makers Academy | | Ruby / Rspec|
 
@@ -66,3 +65,4 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 ## Hobbies
 
 - Running
+- Cooking / Eating vegetrian food
