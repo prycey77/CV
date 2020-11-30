@@ -73,4 +73,4 @@ Full-time software development course focusing on:
 ## Hobbies
 
 - Running
-- Cooking / eating vegetrian food
+- Cooking vegetarian cuisine
