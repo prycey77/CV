@@ -41,7 +41,7 @@ Part of becoming a professional bass player is learning to practice effectively:
 
 #### Team player
 
-I believe bieng a good team player is more important than expertise. During my career as a musician and my time at Makers I learned the value of following Agile practices while maintaining good humor - even in high pressured situations.
+I believe being a good team player is more important than expertise. During my career as a musician and my time at Makers I learned the value of following Agile practices while maintaining good humor - even in high pressured situations.
 
 #### Leadership
 
