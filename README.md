@@ -3,7 +3,7 @@
 ## Richard Pryce
 <a href="https://www.codewars.com/users/prycey77"><img src="images/codewars.png" width="100" alt="Codewars"></a>
 
-I have been fascinated with computers and software development since I was a teenager, and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/). For the first time in years of bieng a very in demand professional double bass player in London, I had time to reflect and think about what I really wanted to do. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed. 
+I have been fascinated with computers and software development since I was a teenager, and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/). For the first time in years of being a very in demand professional double bass player in London, I had time to reflect and think about what I really wanted to do. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed. 
 
 I fell in love with coding while preparing for my Makers inteview - the combination of logic and creativity, writing DRY code and producing tangiable results. 
 
