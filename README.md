@@ -72,5 +72,5 @@ Full-time software development course focusing on:
 
 ## Hobbies
 
-- Trail unning
+- Trail running
 - Cooking vegetarian cuisine
