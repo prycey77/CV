@@ -1,7 +1,7 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 ![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
 ## Richard Pryce
-<a href="https://www.codewars.com/users/prycey77"><img src="/images/codewars.png" width="100" alt="Codewars"></a>
+![codewars.com badge](https://www.codewars.com/users/prycey77/badges/small)
 
 I have been fascinated with computers and software development since I was a teenager, and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/). For the first time in years of being a very in demand professional double bass player in London, I had time to reflect and think about what I really wanted to do. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed. 
 
