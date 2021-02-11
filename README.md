@@ -3,11 +3,9 @@
 ## Richard Pryce
 ![codewars.com badge](https://www.codewars.com/users/prycey77/badges/small)
 
-I have been fascinated with computers and software development since I was a teenager, and the Covid pandemic was just the push I needed to send my application to [Makers Academy](https://makers.tech/). For the first time in years of being a very in demand professional double bass player in London, I had time to reflect and think about what I really wanted to do. My experience at Makers Academy has engrained in me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I'd love to work in a supportive environment where those practices are followed. 
+I am a software engineer and recent graduate of Makers Academy. In my previous career I worked as a professional freelance double bass player. After years studying and working as a musician at the highest level, I was unable to work due to COVID. I took up my childhood hobby of coding and started seeing the potential tech has.
+I’ve always been passionate about tech. The way it is changing our lives and the speed of change really excites me. Coding challenges me in such a way that it drives me to be part of an industry that can make an impact. I became a successful musician due to my self-driven nature and ability to collaborate well with others - these skills are key for any developer. I am currently contributing to an open source inventory manager app and learning key tech for 'DevOps' roles such as AWS, Terraform and IaC.
 
-I fell in love with coding while preparing for my Makers inteview - the combination of logic and creativity, writing DRY code and producing tangiable results. 
-
-As a musician, I have worked at the highest levels as a session double bass player. I have recorded 100's of film sound tracks and toured throughout Europe with some of the world's greatest musicians. I'm looking for a developer role where I can continue to work at the highest possible standard.
 
 
 ## Projects
@@ -17,6 +15,7 @@ As a musician, I have worked at the highest levels as a session double bass play
 | [BrewKanoo](https://github.com/cfujiname/brewkanoo) | A webapp to guide you through your first home brew experience. | http://brewkanoo.herokuapp.com/ | React, JavaScript, Jest, |
 | [FaceMaskBook](https://github.com/prycey77/FacemaskBook) | A clone of a popular social network platform. |  | Rails, Ruby, Rspec, Capybara, Circle CI, Heroku|
 | [Solo tech test](https://github.com/prycey77/Bank-techtest) | An example solo tech test completed in week 10 of Makers Academy | | Ruby / Rspec|
+| [Recipe API](https://github.com/prycey77/recipe-app-api) | Backend REST API to manage collections of recipes | | Prthon, Django, Docker / Pytest|
 
 
 
