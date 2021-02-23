@@ -15,7 +15,7 @@ I’ve always been passionate about tech. The way it is changing our lives and t
 | [BrewKanoo](https://github.com/cfujiname/brewkanoo) | A webapp to guide you through your first home brew experience. | http://brewkanoo.herokuapp.com/ | React, JavaScript, Jest, |
 | [FaceMaskBook](https://github.com/prycey77/FacemaskBook) | A clone of a popular social network platform. |  | Rails, Ruby, Rspec, Capybara, Circle CI, Heroku|
 | [Solo tech test](https://github.com/prycey77/Bank-techtest) | An example solo tech test completed in week 10 of Makers Academy | | Ruby / Rspec|
-| [Recipe API](https://github.com/prycey77/recipe-app-api) | Backend REST API to manage collections of recipes | | Prthon, Django, Docker / Pytest|
+| [Recipe API](https://github.com/prycey77/recipe-app-api) | Backend REST API to manage collections of recipes | | Python, Django, Docker / Pytest|
 
 
 
