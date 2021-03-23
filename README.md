@@ -3,8 +3,9 @@
 ## Richard Pryce
 ![codewars.com badge](https://www.codewars.com/users/prycey77/badges/small)
 
-I am a software engineer and recent graduate of Makers Academy. In my previous career I worked as a professional freelance double bass player. After years studying and working as a musician at the highest level, I was unable to work due to COVID. I took up my childhood hobby of coding and started seeing the potential tech has.
-I’ve always been passionate about tech. The way it is changing our lives and the speed of change really excites me. Coding challenges me in such a way that it drives me to be part of an industry that can make an impact. I became a successful musician due to my self-driven nature and ability to collaborate well with others - these skills are key for any developer. I am currently contributing to an open source inventory manager app and learning key tech for 'DevOps' roles such as AWS, Terraform and IaC.
+I am a A software engineer and recent graduate of Makers Academy. In my previous career I worked as a professional freelance double bass player. After years studying and working as a musician at the highest level, I was unable to work due to COVID and I rediscovered my childhood hobby of coding. Solving problems through coding and tech gives me satisfaction I wasn’t getting from my previous career.
+I’ve always been passionate about tech. The way it is changing our lives, the speed of change and need for continual learning really excites me. Coding challenges me in such a way that it drives me to be part of an industry that can make a real impact. I became a successful musician due to my self-driven nature and ability to collaborate well with others - these skills are key for any developer.
+
 
 
 
@@ -13,9 +14,11 @@ I’ve always been passionate about tech. The way it is changing our lives and t
 | Name       | Description   | Live link  | Tech/tools  |
 | -----     | ------     |-----      |---------     |
 | [BrewKanoo](https://github.com/cfujiname/brewkanoo) | A webapp to guide you through your first home brew experience. | http://brewkanoo.herokuapp.com/ | React, JavaScript, Jest, |
-| [FaceMaskBook](https://github.com/prycey77/FacemaskBook) | A clone of a popular social network platform. |  | Rails, Ruby, Rspec, Capybara, Circle CI, Heroku|
-| [Solo tech test](https://github.com/prycey77/Bank-techtest) | An example solo tech test completed in week 10 of Makers Academy | | Ruby / Rspec|
 | [Recipe API](https://github.com/prycey77/recipe-app-api) | Backend REST API to manage collections of recipes | | Python, Django, Docker / Pytest|
+| [FaceMaskBook](https://github.com/prycey77/FacemaskBook) | A clone of a popular social network platform. |  | Rails, Ruby, Rspec, Capybara, Circle CI, Heroku|
+| [ShopYo](https://github.com/Abdur-rahmaanJ/shopyo) | Open source modular web framework project I have contributed to. | | Python / Flask|
+| [Solo tech test](https://github.com/prycey77/Bank-techtest) | An example solo tech test completed in week 10 of Makers Academy | | Ruby / Rspec|
+
 
 
 
