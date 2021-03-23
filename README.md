@@ -35,7 +35,7 @@ I was required to collaborate and perform with musicians in many different genre
 
 #### Discipline
 
-In order to become a professional double bass player at the highest international level, I have had to be tremendously disciplined, practising 3-4 hours a day for over ten years. I have a great work ethic and excellent time keeping skills.
+In order to become a professional double bass player at the highest international level, I have had to be tremendously disciplined by continually practicing and developing. I have a great work ethic and excellent time keeping skills.
 
 #### Creative problem solving
 
